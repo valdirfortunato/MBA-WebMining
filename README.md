@@ -1,4 +1,4 @@
-# MBA DE02 - WebMining
+# MBA Data Engineering 02 - WebMining
 
 - Trabalho Final - Web Mining & Crawler Scraping
 - Professor: Fernando Sequeira Sousa
