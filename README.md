@@ -8,6 +8,6 @@
 - Edson Fernandes da Silva
 
 
-### Arquivo utilizado para análise obtido no link abaixo:
+### Base utilizada para análise obtida no link abaixo:
 - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe#Hotel_Reviews.csv
 
